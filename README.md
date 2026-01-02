@@ -19,6 +19,7 @@ XSS & URL Manipulation
 Linux & Windows Environments
 
 📂 Project Contents
+
 📄 Analyzing Indicators of Compromise Using Wireshark
 Network traffic capture and analysis
 Identification of suspicious packets and malicious behaviour
