@@ -61,5 +61,4 @@ Indicator of Compromise (IOC) identification
 Vulnerability assessment and exploitation
 Defensive security thinking
 Incident analysis mindset
-
 Documentation and reporting
